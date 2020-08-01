@@ -1,9 +1,9 @@
 
 
 from breezypythongui import EasyFrame
-Tax = 0.20
-standardz = 10000.0
-Dependenttax = 3000.0
+Tax = 0.40
+standardz = 6000.0
+Dependenttax = 1000.0
 
 
 class TaxCalculator(EasyFrame):
