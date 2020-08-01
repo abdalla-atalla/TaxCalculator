@@ -1,11 +1,5 @@
-"""
-A GUI-based tax calculator.
 
-Computes and prints the total tax, given the income and
-number of dependents (inputs), and a standard deduction of
-$10,000, an exemption amount of $3,000, and a flat tax rate
-of 20%.
-"""
+
 from breezypythongui import EasyFrame
 Tax = 0.20
 standardz = 10000.0
